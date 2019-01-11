@@ -1,0 +1,13 @@
+﻿  Kultoa.c
+  game02.c
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(443): warning C4013: 'JOKOA_jokalariaKEskuineraIrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(455): warning C4013: 'JOKOA_jokalariaKEzkerreraIrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(467): warning C4013: 'JOKOA_jokalariaKAurreraIrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(479): warning C4013: 'JOKOA_jokalariaKAtzeraIrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(680): warning C4013: 'JOKOA_ErrekaIrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(895): warning C4013: 'JOKOA_kultoatxtIrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(943): warning C4013: 'JOKOA_HilketatxtIrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+c:\users\thewy\desktop\popbl\sdl2-0-7examplesvcws\02simplegame\game02\game02.c(945): warning C4013: 'JOKOA_Hilketatxt1IrudiaSortu' sin definir; se supone que extern devuelve como resultado int
+  Generando código...
+     Creando biblioteca C:\Users\Thewy\Desktop\POPBL\sdl2-0-7ExamplesVcWS\Debug\02simpleGame.lib y objeto C:\Users\Thewy\Desktop\POPBL\sdl2-0-7ExamplesVcWS\Debug\02simpleGame.exp
+  02simpleGame.vcxproj -> C:\Users\Thewy\Desktop\POPBL\sdl2-0-7ExamplesVcWS\Debug\02simpleGame.exe
