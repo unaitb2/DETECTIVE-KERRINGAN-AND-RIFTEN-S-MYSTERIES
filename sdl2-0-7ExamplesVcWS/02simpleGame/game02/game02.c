@@ -96,15 +96,15 @@ int mapaNagusia1[FILAS][COLUMNAS] = {
 	{1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,6,0,0,0,0,0,0,4,4,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,1,0,4,4},
 	{1,7,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,1,1,0,0,0,0,0,7,2,5,2,2,7,0,0,1,0,0,0,0,3,3,3,3,3,3,4,4,0,0,0,0,0,0,0,1,0,4,4},
 	{1,0,4,0,0,0,0,0,0,0,0,2,2,2,2,1,0,0,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,4,0,0,0,0,0,1,0,2,2,2,2,2,2,2,2,0,0,4,4},
-	{1,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,4,0,0,0,0,0,0,1,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,4},
+	{1,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,4,0,0,0,0,0,0,1,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,36,36,36,0,0,0,0,4,4},
 	{1,0,11,11,11,33,33,33,2,2,5,0,0,0,0,0,0,0,4,0,0,0,0,0,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4,4},
 	{1,8,0,0,0,1,60,60,60,60,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,5,2,2,1,0,0,0,0,0,0,0,0,4,4},
-	{1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,2,2,2,7,5,2,2,1,0,0,0,0,0,0,0,0,4,4},
-	{1,8,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,1,2,2,6,4,6,1,0,0,0,0,0,0,0,0,0,0,4,4},
+	{1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,2,2,2,7,5,2,2,1,36,36,36,36,36,0,0,0,4,4},
+	{1,8,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,1,2,2,6,4,6,1,0,0,36,36,36,36,36,0,0,0,4,4},
 	{1,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,0,0,4,4,4,1,0,0,0,0,0,0,0,0,0,0,4,4},
 	{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,3,3,0,3,3,8,1,0,0,0,0,0,0,0,0,0,0,4,4},
 	{6,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,0,0,0,0,0,0,0,0,2,2,7,0,5,2,2,0,0,0,0,0,0,0,0,3,3,3,4,4},
-	{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,8,0,0,1,4,4},
+	{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,0,1,0,0,36,36,36,36,36,36,0,8,0,0,1,4,4},
 	{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,4,4},
 	{5,2,2,2,2,2,2,2,2,2,2,2,2,2,2,7,4,0,0,9,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,4,4},
 	{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4},
@@ -240,14 +240,14 @@ int mapKultoa[FILAS][COLUMNAS] = {
 	{2,2,2,2,2,5,2,2,7,2,2,2,2,5,2,2,2,7,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,2,2,2,2,2,7,2,2,2,2,5,2,2,2,2,2,2,2,7,2,2,2},
 	{1,1,2,1,1,5,0,0,7,4,4,1,1,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,7,0,0,0,0,5,0,0,0,0,0,0,0,4,4,0,4},
 	{1,5,2,2,2,2,0,0,2,2,2,2,2,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,4,4,0,4},
-	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
-	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
-	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
+	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,64,64,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
+	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,64,64,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
+	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,64,64,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
 	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
 	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
 	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
 	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
-	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
+	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,62,62,0,0,0,0,0,63,63,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
 	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
 	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
 	{1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4},
@@ -323,7 +323,7 @@ int mapHilketa[FILAS][COLUMNAS] = {
 	{1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,0,4,0,4},
 	{1,0,0,1,2,7,2,2,2,2,2,5,7,2,2,2,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,5,5,8,6,5,5,7,2,2,2,2,5,2,2,2,2,2,2,2,2,2,2,2,7,0,4,0,4},
 	{1,0,0,1,0,4,0,0,0,0,0,1,4,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,2,7,8,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,4},
-	{1,0,0,1,0,0,2,2,2,2,2,0,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,11,11,11,0,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,4},
+	{1,0,0,1,0,0,2,2,2,2,2,0,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,16,16,16,0,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,4},
 	{1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,4},
 	{1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,4},
 	{6,3,3,6,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,3,3,3,3},
@@ -385,6 +385,57 @@ int mapHilketa1[FILAS][COLUMNAS] = {
 	{3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3},
 	{3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3},
 };
+int mapPuzzle6[FILAS][COLUMNAS] = {
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,5,2,2,2,2,2,2,2,2,2,2,11,11,11,11,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,11,11,11,11,11,2,2,2,2,2,7,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,4,2,0,0,0,0},
+	{0,0,0,0,1,0,4,1,0,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,12,0,0,0},
+	{0,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0},
+	{0,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,6,3,3,3,3,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,8,0,0,0,0,0},
+	{0,0,0,0,5,2,2,2,2,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,2,2,2,2,7,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,3,3,3,3,3,3,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,0,4,1,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,3,3,3,3,3,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,2,2,2,2,2,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0},
+	{0,0,0,0,6,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+	{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
+};
+
 void sarreraMezuaIdatzi()
 {
   pantailaGarbitu();
@@ -393,128 +444,285 @@ void sarreraMezuaIdatzi()
 }
 EGOERA jokatu(void) 
 {
-  int filas,columnas,mugimenduaezkerra=1, mugimenduagoian=1, mugimenduabehean=1, mugimenduaeskuina=1,multzo=1,multzo2=1,confirm=0,puzzle=0,multzo1=1;
+  int filas,columnas,mugimenduaezkerra=1, mugimenduagoian=1, mugimenduabehean=1, mugimenduaeskuina=1,multzo=1,multzo2=1,confirm=0,puzzle=0,multzo1=1,puntuaketa;
   EGOERA  egoera = JOLASTEN;
-  int ebentu = 0,hasiera=0,elkarrizketa=0,puzzle1=0,saiatuBerriz=0, komp = 0,puzzle2=0,puzzle3=0, lortuPuzzlea=0,kulto=0,arropa=0;
-  int pos1 = 1, pos2 = 1, pos4 = 1, pos5=1, pos6 = 1, pos7 = 1, pos8 = 1, pos9 = 1,konp=0;
-  JOKO_ELEMENTUA jokalaria,mapaglobal,marco1,marco2,cuadro1,cuadro2,bulegoabalantza, elkarrizketaemaztea, elkarrizketaemaztea1, elkarrizketaemaztea2, bulegoaliburutegia,elkarrizketapolizia, elkarrizketapolizia1, elkarrizketapolizia2,atea, pieza1, pieza2, pieza3, pieza4, pieza5, pieza6, pieza7, pieza8, pieza9, select;
+  int ebentu = 0,hasiera=0,elkarrizketa=0,puzzle1=0,saiatuBerriz=0, komp = 0,puzzle2=0,puzzle3=0, lortuPuzzlea=0,kulto=0,arropa=0,kultoa=0, hasi = 0,menu=1;
+  int pos1 = 1, pos2 = 1, pos4 = 1, pos5=1, pos6 = 1, pos7 = 1, pos8 = 1, pos9 = 1,konp=0,puzzle6=0, hasierakoElkarrizketa = 0, jokoahasi = 0,probafinal=0;
+  JOKO_ELEMENTUA jokalaria,mapaglobal,marco1,marco2,cuadro1,cuadro2,bulegoabalantza, arrop,elkarrizketaemaztea, elkarrizketaemaztea1, elkarrizketaemaztea2, bulegoaliburutegia,elkarrizketapolizia, elkarrizketapolizia1, elkarrizketapolizia2,atea, pieza1, pieza2, pieza3, pieza4, pieza5, pieza6, pieza7, pieza8, pieza9, select;
   //Uint32 time01 = SDL_GetTicks(), time02;
   jokalaria.pos.x = 500;
   jokalaria.pos.y = 400;
   audioInit();
   //loadTheMusic(JOKOA_SOUND);
   playMusic();
-  mapaglobal.id = JOKOA_AitaIrudiaSortu();
-  Sleep(1);
-  mapaglobal.id = JOKOA_Aita1IrudiaSortu();
-  Sleep(1);
-  mapaglobal.id = JOKOA_Aita2IrudiaSortu();
-  Sleep(1);
-  mapaglobal.id = JOKOA_bulegoaIrudiaSortu();
-  jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
-  
+ 
 
   
   kopiatuMapaBulegoa();
   do {
     Sleep(2);
-    pantailaGarbitu();
-    irudiaMugitu(jokalaria.id, jokalaria.pos.x, jokalaria.pos.y);
-    irudiakMarraztu();
-	pantailaBerriztu();
-	if (multzo == 1&&multzo2==1&&multzo1==1) {
-		if (mugimenduaezkerra == 0 && (ebentu == TECLA_RIGHT || ebentu == TECLA_d || ebentu == TECLA_UP || ebentu == TECLA_w || ebentu == TECLA_DOWN || ebentu == TECLA_s)) {
-			mugimenduaezkerra = 1;
+	if (jokoahasi == 0) {
+		if (hasi == 0) {
+			mapaglobal.id = JOKOA_menuIrudiaSortu();
+			hasi = 1;
 		}
-		if (mugimenduagoian == 0 && (ebentu == TECLA_RIGHT || ebentu == TECLA_d || ebentu == TECLA_LEFT || ebentu == TECLA_a || ebentu == TECLA_DOWN || ebentu == TECLA_s)) {
-			mugimenduagoian = 1;
+		if (menu == 1)
+		{
+			irudiaKendu(mapaglobal.id);
+			mapaglobal.id = JOKOA_menuIrudiaSortu();
 		}
-		if (mugimenduabehean == 0 && (ebentu == TECLA_RIGHT || ebentu == TECLA_d || ebentu == TECLA_UP || ebentu == TECLA_w || ebentu == TECLA_UP || ebentu == TECLA_w)) {
-			mugimenduabehean = 1;
+		else if (menu == 2)
+		{
+			irudiaKendu(mapaglobal.id);
+			mapaglobal.id = JOKOA_kontrolakIrudiaSortu();
 		}
-		if (mugimenduaeskuina == 0 && (ebentu == TECLA_LEFT || ebentu == TECLA_a || ebentu == TECLA_UP || ebentu == TECLA_w || ebentu == TECLA_DOWN || ebentu == TECLA_s)) {
-			mugimenduaeskuina = 1;
+		else if (menu == 3)
+		{
+			irudiaKendu(mapaglobal.id);
+			mapaglobal.id = JOKOA_menuIrtenIrudiaSortu();
 		}
-		if (ebentu == TECLA_RIGHT || ebentu == TECLA_d) {
-			if (mugimenduaeskuina == 1) {
-				jokalaria.pos.x = jokalaria.pos.x + 5;
-				irudiaKendu(jokalaria.id);
-				if (kulto == 1) {
-					jokalaria.id = JOKOA_jokalariaKEskuineraIrudiaSortu();
-				}
-				else {
-					jokalaria.id = JOKOA_jokalariaEskuineraIrudiaSortu();
-				}
+
+		ebentu = ebentuaJasoGertatuBada();
+		if ((ebentu == TECLA_DOWN || ebentu == TECLA_s) && (menu < 3))
+		{
+			menu++;
+		}
+		if ((ebentu == TECLA_w || ebentu == TECLA_UP) && (menu > 1)) { menu--; }
+		if (menu == 2 && ebentu == TECLA_RETURN)
+		{
+			while (ebentu != TECLA_e && menu == 2)
+			{
+				irudiaKendu(mapaglobal.id);
+				mapaglobal.id = JOKOA_kontrolakAzalpenaIrudiaSortu();
+				ebentu = ebentuaJasoGertatuBada();
 			}
 		}
-		if (ebentu == TECLA_LEFT || ebentu == TECLA_a) {
-			if (mugimenduaezkerra == 1) {
-				jokalaria.pos.x = jokalaria.pos.x - 5;
-				irudiaKendu(jokalaria.id);
-				if (kulto == 1) {
-					jokalaria.id = JOKOA_jokalariaKEzkerreraIrudiaSortu();
-				}
-				else {
-					jokalaria.id = JOKOA_jokalariaEzkerreraIrudiaSortu();
-				}
-			}
-		}
-		if (ebentu == TECLA_UP || ebentu == TECLA_w) {
-			if (mugimenduagoian == 1) {
-				jokalaria.pos.y = jokalaria.pos.y - 5;
-				irudiaKendu(jokalaria.id);
-				if (kulto == 1) {
-					jokalaria.id = JOKOA_jokalariaKAurreraIrudiaSortu();
-				}
-				else {
-					jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
-				}
-			}
-		}
-		if (ebentu == TECLA_DOWN || ebentu == TECLA_s) {
-			if (mugimenduabehean == 1) {
-				jokalaria.pos.y = jokalaria.pos.y + 5;
-				irudiaKendu(jokalaria.id);
-				if (kulto == 1) {
-					jokalaria.id = JOKOA_jokalariaKAtzeraIrudiaSortu();
-				}
-				else {
-					jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
-				}
-			}
+		if (menu == 3 && ebentu == TECLA_RETURN)
+		{
+			sgItxi();
 		}
 	}
-	filas = jokalaria.pos.y / 10;
-	columnas = jokalaria.pos.x / 10;
-	if (mapa[filas][columnas] == 1) {
+	if ((menu == 1 && ebentu == TECLA_RETURN) || jokoahasi == 1) {
+		jokoahasi = 1;
+		pantailaGarbitu();
+		if (hasierakoElkarrizketa == 0) {
+			mapaglobal.id = JOKOA_AitaIrudiaSortu();
+			Sleep(1);
+			mapaglobal.id = JOKOA_Aita1IrudiaSortu();
+			Sleep(1);
+			mapaglobal.id = JOKOA_Aita2IrudiaSortu();
+			Sleep(1);
+			mapaglobal.id = JOKOA_bulegoaIrudiaSortu();
+			jokalaria.pos.x = 500;
+			jokalaria.pos.y = 400;
+			jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
+			kopiatuMapaBulegoa();
+			hasierakoElkarrizketa = 1;
+		}
+		irudiaMugitu(jokalaria.id, jokalaria.pos.x, jokalaria.pos.y);
+		irudiakMarraztu();
+		pantailaBerriztu();
+		if (multzo == 1 && multzo2 == 1 && multzo1 == 1) {
+			if (mugimenduaezkerra == 0 && (ebentu == TECLA_RIGHT || ebentu == TECLA_d || ebentu == TECLA_UP || ebentu == TECLA_w || ebentu == TECLA_DOWN || ebentu == TECLA_s)) {
+				mugimenduaezkerra = 1;
+			}
+			if (mugimenduagoian == 0 && (ebentu == TECLA_RIGHT || ebentu == TECLA_d || ebentu == TECLA_LEFT || ebentu == TECLA_a || ebentu == TECLA_DOWN || ebentu == TECLA_s)) {
+				mugimenduagoian = 1;
+			}
+			if (mugimenduabehean == 0 && (ebentu == TECLA_RIGHT || ebentu == TECLA_d || ebentu == TECLA_UP || ebentu == TECLA_w || ebentu == TECLA_UP || ebentu == TECLA_w)) {
+				mugimenduabehean = 1;
+			}
+			if (mugimenduaeskuina == 0 && (ebentu == TECLA_LEFT || ebentu == TECLA_a || ebentu == TECLA_UP || ebentu == TECLA_w || ebentu == TECLA_DOWN || ebentu == TECLA_s)) {
+				mugimenduaeskuina = 1;
+			}
+			if (ebentu == TECLA_RIGHT || ebentu == TECLA_d) {
+				if (mugimenduaeskuina == 1) {
+					if (puzzle6 == 1) {
+						while (mugimenduaeskuina == 1) {
+							jokalaria.pos.x = jokalaria.pos.x + 5;
+							irudiaKendu(jokalaria.id);
+							jokalaria.id = JOKOA_jokalariaEskuineraIrudiaSortu();
+
+							filas = jokalaria.pos.y / 10;
+							columnas = jokalaria.pos.x / 10;
+
+							if (mapPuzzle6[filas][columnas] == 4) {
+								mugimenduaeskuina = 0;
+							}
+							if (mapPuzzle6[filas][columnas] == 7) {
+								mugimenduaeskuina = 0;
+								mugimenduagoian = 0;
+							}
+							if (mapPuzzle6[filas][columnas] == 8) {
+								mugimenduaeskuina = 0;
+								mugimenduabehean = 0;
+							}
+							if (mapPuzzle6[filas][columnas] == 12) {
+								egoera = IRABAZI;
+							}
+						}
+					}
+					else {
+						jokalaria.pos.x = jokalaria.pos.x + 5;
+						irudiaKendu(jokalaria.id);
+						if (kulto == 1) {
+							jokalaria.id = JOKOA_jokalariaKEskuineraIrudiaSortu();
+						}
+						else {
+							jokalaria.id = JOKOA_jokalariaEskuineraIrudiaSortu();
+						}
+					}
+				}
+			}
+			if (ebentu == TECLA_LEFT || ebentu == TECLA_a) {
+				if (puzzle6 == 1) {
+					while (mugimenduaezkerra == 1) {
+						jokalaria.pos.x = jokalaria.pos.x - 5;
+						irudiaKendu(jokalaria.id);
+						jokalaria.id = JOKOA_jokalariaEzkerreraIrudiaSortu();
+
+						filas = jokalaria.pos.y / 10;
+						columnas = jokalaria.pos.x / 10;
+
+						if (mapPuzzle6[filas][columnas] == 1) {
+							mugimenduaezkerra = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 5) {
+							mugimenduagoian = 0;
+							mugimenduaezkerra = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 6) {
+							mugimenduabehean = 0;
+							mugimenduaezkerra = 0;
+						}
+					}
+				}
+				else {
+					if (mugimenduaezkerra == 1) {
+						jokalaria.pos.x = jokalaria.pos.x - 5;
+						irudiaKendu(jokalaria.id);
+						if (kulto == 1) {
+							jokalaria.id = JOKOA_jokalariaKEzkerreraIrudiaSortu();
+						}
+						else {
+							jokalaria.id = JOKOA_jokalariaEzkerreraIrudiaSortu();
+						}
+					}
+				}
+			}
+			if (ebentu == TECLA_UP || ebentu == TECLA_w) {
+				if (puzzle6 == 1) {
+					while (mugimenduagoian == 1) {
+						jokalaria.pos.y = jokalaria.pos.y - 5;
+						irudiaKendu(jokalaria.id);
+						jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
+
+						filas = jokalaria.pos.y / 10;
+						columnas = jokalaria.pos.x / 10;
+
+						if (mapPuzzle6[filas][columnas] == 2) {
+							mugimenduagoian = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 5) {
+							mugimenduagoian = 0;
+							mugimenduaezkerra = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 7) {
+							mugimenduaeskuina = 0;
+							mugimenduagoian = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 11) {
+							mugimenduagoian = 0;
+							mugimenduabehean = 0;
+						}
+					}
+				}
+				else {
+					if (mugimenduagoian == 1) {
+						jokalaria.pos.y = jokalaria.pos.y - 5;
+						irudiaKendu(jokalaria.id);
+						if (kulto == 1) {
+							jokalaria.id = JOKOA_jokalariaKAurreraIrudiaSortu();
+						}
+						else {
+							jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
+						}
+					}
+				}
+			}
+			if (ebentu == TECLA_DOWN || ebentu == TECLA_s) {
+				if (puzzle6 == 1) {
+					while (mugimenduabehean == 1) {
+						jokalaria.pos.y = jokalaria.pos.y + 5;
+						irudiaKendu(jokalaria.id);
+						jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
+
+						filas = jokalaria.pos.y / 10;
+						columnas = jokalaria.pos.x / 10;
+
+						if (mapPuzzle6[filas][columnas] == 3) {
+							mugimenduabehean = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 6) {
+							mugimenduabehean = 0;
+							mugimenduaezkerra = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 8) {
+							mugimenduaeskuina = 0;
+							mugimenduabehean = 0;
+						}
+						if (mapPuzzle6[filas][columnas] == 11) {
+							mugimenduagoian = 0;
+							mugimenduabehean = 0;
+						}
+					}
+				}
+
+				else {
+					if (mugimenduabehean == 1) {
+						jokalaria.pos.y = jokalaria.pos.y + 5;
+						irudiaKendu(jokalaria.id);
+						if (kulto == 1) {
+							jokalaria.id = JOKOA_jokalariaKAtzeraIrudiaSortu();
+						}
+						else {
+							jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
+						}
+					}
+				}
+			}
+		}
+		filas = jokalaria.pos.y / 10;
+		columnas = jokalaria.pos.x / 10;
+		if (mapa[filas][columnas] == 1) {
 			mugimenduaezkerra = 0;
 		}
-	if (mapa[filas][columnas] == 2) {
+		if (mapa[filas][columnas] == 2) {
 			mugimenduagoian = 0;
 		}
-	if (mapa[filas][columnas] == 3) {
+		if (mapa[filas][columnas] == 3) {
 			mugimenduabehean = 0;
 		}
-	if (mapa[filas][columnas] == 4) {
+		if (mapa[filas][columnas] == 4) {
 			mugimenduaeskuina = 0;
 		}
-	if (mapa[filas][columnas] == 5) {
+		if (mapa[filas][columnas] == 5) {
 			mugimenduaezkerra = 0;
 			mugimenduagoian = 0;
 		}
-	if (mapa[filas][columnas] == 6) {
+		if (mapa[filas][columnas] == 6) {
 			mugimenduaezkerra = 0;
 			mugimenduabehean = 0;
 		}
-	if (mapa[filas][columnas] == 7) {
+		if (mapa[filas][columnas] == 7) {
 			mugimenduaeskuina = 0;
 			mugimenduagoian = 0;
 		}
-	if (mapa[filas][columnas] == 8) {
+		if (mapa[filas][columnas] == 8) {
 			mugimenduaeskuina = 0;
 			mugimenduabehean = 0;
 		}
-	if (mapa[filas][columnas] == 11 && ebentu == TECLA_e) {
+		if (mapa[filas][columnas] == 16 && ebentu == TECLA_e) {
 			elkarrizketaemaztea.id = JOKOA_hilketatxtIrudiaSortu();
 			Sleep(4);
 			irudiaKendu(elkarrizketaemaztea.id);
@@ -525,37 +733,33 @@ EGOERA jokatu(void)
 			Sleep(4);
 			irudiaKendu(elkarrizketaemaztea2.id);
 		}
-	if (mapa[filas][columnas] == 15) {
+		if (mapa[filas][columnas] == 15) {
 			mapaglobal.id = JOKOA_MapaIrudiaSortu();
 			kopiatuMapaNagusia();
 			jokalaria.pos.x = 555;
 			jokalaria.pos.y = 420;
 			jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
 		}
-	if (mapa[filas][columnas] == 13||multzo1==0) {
+		if (mapa[filas][columnas] == 13 || multzo1 == 0) {
 			multzo1 = 0;
 			if (puzzle3 == 0) {
-				if (komp == 0)
-				{
+				if (komp == 0){
 					mapaglobal.id = PUZZLE1_irudiaBistaratu();
 					marco1.id = selec1();
 					komp = 1;
 				}
-				if ((ebentu == TECLA_RIGHT||ebentu==TECLA_d) && confirm == 0)
-				{
+				if ((ebentu == TECLA_RIGHT || ebentu == TECLA_d) && confirm == 0){
 					irudiaKendu(marco1.id);
 					marco2.id = selec2();
 					confirm = 1;
 				}
-				if ((ebentu == TECLA_LEFT || ebentu == TECLA_a) && confirm == 1)
-				{
+				if ((ebentu == TECLA_LEFT || ebentu == TECLA_a) && confirm == 1){
 					irudiaKendu(marco2.id);
 					marco1.id = selec1();
 					confirm = 0;
 				}
 			}
-			if (ebentu == TECLA_RETURN && confirm == 0)
-			{
+			if (ebentu == TECLA_RETURN && confirm == 0){
 				puzzle3 = 1;
 				mapaglobal.id = JOKOApanpinaIrudiaSortu();
 				Sleep(1);
@@ -571,50 +775,48 @@ EGOERA jokatu(void)
 				confirm = 0;
 				lortuPuzzlea = 0;
 			}
-			if ((ebentu == TECLA_RETURN && confirm == 1)||lortuPuzzlea==1)
-			{
+			if ((ebentu == TECLA_RETURN && confirm == 1) || lortuPuzzlea == 1){
 				puzzle3 = 1;
 				lortuPuzzlea = 1;
-					if (puzzle2 == 0) {
-						mapaglobal.id = JOKOA_galduIrudiaSortu();
-						saiatuBerriz = 0;
-						puzzle2 = 1;
-					}
-					if (ebentu == TECLA_DOWN) {
-						irudiaKendu(mapaglobal.id);
-						mapaglobal.id = JOKOA_galdu1IrudiaSortu();
-						saiatuBerriz = 1;
-					}
-					if (ebentu == TECLA_UP) {
-						irudiaKendu(mapaglobal.id);
-						mapaglobal.id = JOKOA_galduIrudiaSortu();
-						saiatuBerriz = 0;
-					}
-					if (ebentu == TECLA_e && saiatuBerriz == 0) {
-						mapaglobal.id = JOKOA_hilketaIrudiaSortu();
-						jokalaria.pos.x = 300;
-						jokalaria.pos.y = 400;
-						jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
-						multzo1 = 1;
-						puzzle2 = 0;
-						puzzle3 = 0;
-						komp = 0;
-						confirm = 0;
-						lortuPuzzlea = 0;
-					}
-					if (ebentu == TECLA_e && saiatuBerriz == 1) {
-						mapaglobal.id = JOKOA_bulegoaIrudiaSortu();
-						kopiatuMapaBulegoa();
-						jokalaria.pos.x = 300;
-						jokalaria.pos.y = 420;
-						jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
-						multzo1 = 1;
-						puzzle2 = 0;
-						puzzle3 = 0;
-						komp = 0;
-						confirm = 0;
-						lortuPuzzlea = 0;
-					}
+				if (puzzle2 == 0) {
+					mapaglobal.id = JOKOA_galduIrudiaSortu();
+					saiatuBerriz = 0;
+					puzzle2 = 1;
+				}
+				if (ebentu == TECLA_DOWN) {
+					irudiaKendu(mapaglobal.id);
+					mapaglobal.id = JOKOA_galdu1IrudiaSortu();
+					saiatuBerriz = 1;
+				}
+				if (ebentu == TECLA_UP) {
+					irudiaKendu(mapaglobal.id);
+					mapaglobal.id = JOKOA_galduIrudiaSortu();
+					saiatuBerriz = 0;
+				}
+				if (ebentu == TECLA_e && saiatuBerriz == 0) {
+					mapaglobal.id = JOKOA_hilketaIrudiaSortu();
+					jokalaria.pos.x = 300;
+					jokalaria.pos.y = 400;
+					jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
+					multzo1 = 1;
+					puzzle2 = 0;
+					puzzle3 = 0;
+					komp = 0;
+					confirm = 0;
+					lortuPuzzlea = 0;
+				}
+				if (ebentu == TECLA_e && saiatuBerriz == 1) {
+					jokoahasi = 0;
+					hasi = 0;
+					menu = 1;
+					hasierakoElkarrizketa = 0;
+					multzo1 = 1;
+					puzzle2 = 0;
+					puzzle3 = 0;
+					komp = 0;
+					confirm = 0;
+					lortuPuzzlea = 0;
+				}
 			}
 		}
 		if (mapa[filas][columnas] == 25 && ebentu == TECLA_e) {
@@ -667,14 +869,14 @@ EGOERA jokatu(void)
 			jokalaria.pos.y = 420;
 			jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
 		}
-		if (mapa[filas][columnas] == 32){
+		if (mapa[filas][columnas] == 32) {
 			mapaglobal.id = JOKOA_hilketaIrudiaSortu();
 			kopiatuMapaHilketa();
 			jokalaria.pos.x = 310;
 			jokalaria.pos.y = 430;
 			jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
 		}
-		if (mapa[filas][columnas] == 34||multzo2==0) {
+		if (mapa[filas][columnas] == 34 || multzo2 == 0) {
 			multzo2 = 0;
 			if (konp == 0) {
 				mapaglobal.id = JOKOA_ErrekaIrudiaSortu();
@@ -695,7 +897,7 @@ EGOERA jokatu(void)
 				konp = 1;
 			}
 			irudiaMugitu(select.id, select.pos.x, select.pos.y);
-			if (ebentu == TECLA_d||ebentu==TECLA_RIGHT) {
+			if (ebentu == TECLA_d || ebentu == TECLA_RIGHT) {
 				select.pos.x = select.pos.x + 120;
 				irudiaKendu(select.id);
 				select.id = seleccion();
@@ -765,7 +967,7 @@ EGOERA jokatu(void)
 				if (ebentu == TECLA_RETURN) { pos2++; }
 				if (pos2 > 4) { pos2 = 1; }
 			}
-			
+
 			if (select.pos.x == 0 && select.pos.y == 120) {
 				irudiaKendu(pieza4.id);
 				if (pos4 == 1) {
@@ -856,7 +1058,7 @@ EGOERA jokatu(void)
 				if (ebentu == TECLA_RETURN) { pos9++; }
 				if (pos9 > 4) { pos9 = 1; }
 			}
-			if (pos1 == 3 && pos2 == 2 && pos5 == 2 && (pos4 == 1 || pos4==4) && pos6 == 2 && pos9 == 2) {
+			if (pos1 == 3 && pos2 == 2 && pos5 == 2 && (pos4 == 1 || pos4 == 4) && pos6 == 2 && pos9 == 2) {
 				pos1 = 1;
 				pos2 = 1;
 				pos5 = 1;
@@ -872,96 +1074,139 @@ EGOERA jokatu(void)
 
 
 		}
-	if (mapa[filas][columnas] == 60||multzo==0){
-		if (arropa == 1) {
-			multzo = 0;
-			if (puzzle1 == 0) {
-				if (puzzle == 0) {
-					mapaglobal.id = PUZZLE_irudiaBistaratu();
-					cuadro1.id = seleccion1();
-					puzzle = 1;
+		if ((mapa[filas][columnas] == 60 || multzo == 0) && kultoa == 0) {
+			if (arropa == 1) {
+				multzo = 0;
+				if (puzzle1 == 0) {
+					if (puzzle == 0) {
+						mapaglobal.id = PUZZLE_irudiaBistaratu();
+						cuadro1.id = seleccion1();
+						puzzle = 1;
+					}
+
+					if (ebentu == TECLA_RIGHT || ebentu == TECLA_d) {
+						irudiaKendu(cuadro1.id);
+						cuadro2.id = seleccion2();
+						confirm = 1;
+					}
+					if ((ebentu == TECLA_LEFT || ebentu == TECLA_a) && confirm == 1) {
+						irudiaKendu(cuadro2.id);
+						cuadro1.id = seleccion1();
+						confirm = 0;
+					}
+					if (ebentu == TECLA_RETURN && confirm == 0) {
+						mapaglobal.id = JOKOA_kultoatxtIrudiaSortu();
+						Sleep(10000);
+						mapaglobal.id = JOKOA_kultoaIrudiaSortu();
+						kopiatuMapaKultoa();
+						jokalaria.pos.x = 300;
+						jokalaria.pos.y = 430;
+						jokalaria.id = JOKOA_jokalariaKAtzeraIrudiaSortu();
+						puzzle = 1;
+						multzo = 1;
+						puzzle = 0;
+					}
 				}
-				if (ebentu == TECLA_RIGHT || ebentu == TECLA_d) {
-					irudiaKendu(cuadro1.id);
-					cuadro2.id = seleccion2();
-					confirm = 1;
-				}
-				if ((ebentu == TECLA_LEFT || ebentu == TECLA_a) && confirm == 1) {
-					irudiaKendu(cuadro2.id);
-					cuadro1.id = seleccion1();
-					confirm = 0;
-				}
-				if (ebentu == TECLA_RETURN && confirm == 0) {
-					mapaglobal.id = JOKOA_kultoatxtIrudiaSortu();
-					Sleep(10000);
-					mapaglobal.id = JOKOA_kultoaIrudiaSortu();
-					kopiatuMapaKultoa();
-					jokalaria.pos.x = 300;
-					jokalaria.pos.y = 430;
-					jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
-					puzzle = 1;
+				if ((ebentu == TECLA_RETURN && confirm == 1) || puzzle1 == 1) {
+					if (puzzle1 == 0) {
+						mapaglobal.id = JOKOA_galduIrudiaSortu();
+					}
+					puzzle1 = 1;
+					if (ebentu == TECLA_DOWN || ebentu == TECLA_s) {
+						irudiaKendu(mapaglobal.id);
+						mapaglobal.id = JOKOA_galdu1IrudiaSortu();
+						saiatuBerriz = 1;
+					}
+					if (ebentu == TECLA_UP || ebentu == TECLA_w) {
+						irudiaKendu(mapaglobal.id);
+						mapaglobal.id = JOKOA_galduIrudiaSortu();
+						saiatuBerriz = 0;
+					}
+					if (ebentu == TECLA_e && saiatuBerriz == 0) {
+						mapaglobal.id = JOKOA_Mapa1IrudiaSortu();
+						kopiatuMapaKultoa();
+						jokalaria.pos.x = 300;
+						jokalaria.pos.y = 430;
+						jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
+						multzo = 1;
+						puzzle = 0;
+						puzzle1 = 0;
+					}
+					if (ebentu == TECLA_e && saiatuBerriz == 1) {
+						hasierakoElkarrizketa = 0;
+						jokoahasi = 0;
+						hasi = 0;
+						menu = 1;
+						multzo = 1;
+						puzzle = 0;
+						puzzle1 = 0;
+					}
 				}
 			}
-			if ((ebentu == TECLA_RETURN && confirm == 1) || puzzle1 == 1) {
-				if (puzzle1 == 0) {
-					mapaglobal.id = JOKOA_galduIrudiaSortu();
-				}
-				puzzle1 = 1;
-				if (ebentu == TECLA_DOWN || ebentu == TECLA_s) {
-					irudiaKendu(mapaglobal.id);
-					mapaglobal.id = JOKOA_galdu1IrudiaSortu();
-					saiatuBerriz = 1;
-				}
-				if (ebentu == TECLA_UP || ebentu == TECLA_w) {
-					irudiaKendu(mapaglobal.id);
-					mapaglobal.id = JOKOA_galduIrudiaSortu();
-					saiatuBerriz = 0;
-				}
-				if (ebentu == TECLA_e && saiatuBerriz == 0) {
-					mapaglobal.id = JOKOA_kultoaIrudiaSortu();
-					kopiatuMapaKultoa();
-					jokalaria.pos.x = 300;
-					jokalaria.pos.y = 430;
-					jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
-					multzo = 1;
-					puzzle = 0;
-					puzzle1 = 0;
-				}
-				if (ebentu == TECLA_e && saiatuBerriz == 1) {
-					mapaglobal.id = JOKOA_bulegoaIrudiaSortu();
-					kopiatuMapaBulegoa();
-					jokalaria.pos.x = 300;
-					jokalaria.pos.y = 420;
-					jokalaria.id = JOKOA_jokalariaAtzeraIrudiaSortu();
-					multzo = 1;
-					puzzle = 0;
-					puzzle1 = 0;
-				}
+			else {
+				mapaglobal.id = JOKOA_HilketatxtIrudiaSortu();
+				Sleep(10000);
+				mapaglobal.id = JOKOA_Hilketatxt1IrudiaSortu();
+				Sleep(10000);
+				jokalaria.pos.y = jokalaria.pos.y + 32;
+				mapaglobal.id = JOKOA_Mapa1IrudiaSortu();
 			}
 		}
-		else {
-			mapaglobal.id = JOKOA_HilketatxtIrudiaSortu();
-			Sleep(10000);
-			mapaglobal.id = JOKOA_Hilketatxt1IrudiaSortu();
-			Sleep(10000);
-			jokalaria.pos.y = jokalaria.pos.y + 32;
+		if (mapa[filas][columnas] == 61) {
 			mapaglobal.id = JOKOA_Mapa1IrudiaSortu();
-
-		}				
+			kopiatuMapaNagusia1();
+			jokalaria.pos.x = 80;
+			jokalaria.pos.y = 130;
+			jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
+			kulto = 0;
+			probafinal = 1;
+		}
+		if (mapa[filas][columnas] == 62) {
+			mapaglobal.id = JOKOA_kultoatxt3IrudiaSortu();
+			Sleep(5000);
+			mapaglobal.id = JOKOA_kultoaIrudiaSortu();
+			jokalaria.pos.y = jokalaria.pos.y + 10;
+			jokalaria.id = JOKOA_jokalariaKAurreraIrudiaSortu();
+		}
+		if (mapa[filas][columnas] == 63) {
+			mapaglobal.id = JOKOA_kultoatxt4IrudiaSortu();
+			Sleep(5000);
+			mapaglobal.id = JOKOA_kultoaIrudiaSortu();
+			jokalaria.pos.y = jokalaria.pos.y + 10;
+			jokalaria.id = JOKOA_jokalariaKAurreraIrudiaSortu();
+		}
+		if (mapa[filas][columnas] == 64) {
+			mapaglobal.id = JOKOA_kultoatxt5IrudiaSortu();
+			Sleep(5000);
+			mapaglobal.id = JOKOA_kultoaIrudiaSortu();
+			jokalaria.pos.y = jokalaria.pos.y + 10;
+			jokalaria.id = JOKOA_jokalariaKAurreraIrudiaSortu();
+		}
+		if (mapa[filas][columnas] == 65) {
+			mapaglobal.id = JOKOA_kultoatxt6IrudiaSortu();
+			Sleep(8000);
+			mapaglobal.id = JOKOA_kultoaIrudiaSortu();
+			jokalaria.pos.y = jokalaria.pos.y + 10;
+			jokalaria.id = JOKOA_jokalariaKAurreraIrudiaSortu();
+			probafinal = 1;
+		}
+		if (mapa[filas][columnas] == 99) {
+			mapaglobal.id = JOKOA_ArropatxtIrudiaSortu();
+			Sleep(10000);
+			arrop.id = JOKOA_Mapa1IrudiaSortu();
+			jokalaria.pos.y = jokalaria.pos.y + 32;
+			kulto = 1;
+			arropa = 1;
+			jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
+		}
+		if (mapa[filas][columnas] == 36 && probafinal == 1) {
+			mapaglobal.id = PUZZLE6_irudiaBistaratu();
+			jokalaria.pos.x = 100;
+			jokalaria.pos.y = 600;
+			puzzle6 = 1;
+		}
+		ebentu = ebentuaJasoGertatuBada();
 	}
-	if (mapa[filas][columnas] == 61) {
-		mapaglobal.id = JOKOA_MapaIrudiaSortu();
-		kopiatuMapaNagusia();
-		jokalaria.pos.x = 80;
-		jokalaria.pos.y = 110;
-		jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
-	}
-	if (mapa[filas][columnas] == 99&&ebentu==TECLA_e) {
-		kulto = 1;
-		arropa = 1;
-		jokalaria.id = JOKOA_jokalariaAurreraIrudiaSortu();
-	}
-	ebentu = ebentuaJasoGertatuBada();
   } while (egoera == JOLASTEN);
   irudiaKendu(jokalaria.id);
   toggleMusic();
@@ -1051,4 +1296,5 @@ void kopiatuMapaHilketa1()
 			mapHilketa[i][j] = mapHilketa1[i][j];
 	}
 }
+
 
